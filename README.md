@@ -1,3 +1,12 @@
+𝗟𝗮𝗻𝗱𝗶𝗻𝗴 𝗽𝗮𝗴𝗲:
+
+![before](https://github.com/Saumyen10/Weather/assets/123822223/0606fab0-881e-4c7f-9b11-d7eb3a56fc0b)
+
+𝗔𝗳𝘁𝗲𝗿 𝘀𝗲𝗮𝗿𝗰𝗵𝗶𝗻𝗴:
+
+![after2](https://github.com/Saumyen10/Weather/assets/123822223/0a17a210-19e6-4616-8b32-8ce68d85f2b3)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,10 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-Landing page:
 
-![before](https://github.com/Saumyen10/Weather/assets/123822223/0606fab0-881e-4c7f-9b11-d7eb3a56fc0b)
-
-After searching:
-
-![after2](https://github.com/Saumyen10/Weather/assets/123822223/0a17a210-19e6-4616-8b32-8ce68d85f2b3)
